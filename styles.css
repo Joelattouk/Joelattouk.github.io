@@ -1,0 +1,42 @@
+h3, h1, h4
+{
+    color: black;
+    text-decoration: blink;
+}
+body
+{
+    
+    text-decoration: rgb(230, 13, 13);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 3px black double;
+    box-shadow: 6px 6px 0px black;
+    text-align: justify;
+}
+header
+{
+    background-image: url("IA-C-Freepik_1040x740_Actu.jpg");
+    background-position: top left;
+}
+.sommaire
+{
+    border: 3px black dashed ;
+}
+
+.iadef
+{
+    border: 3px black double;
+}
+.branche
+{
+    border: 3px black double;
+}
+.ml
+{
+    border: 3px black double;
+}
+.s
+{
+
+}
